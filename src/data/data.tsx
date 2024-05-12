@@ -85,7 +85,6 @@ export const aboutData: About = {
   aboutItems: [
     {label: 'Location', text: 'Leipzig, Germany', Icon: MapIcon},
     {label: 'Age', text: (new Date(Math.abs(new Date().getTime() - new Date('1996-05-11').getTime())).getUTCFullYear() - 1970).toString(), Icon: CalendarIcon},
-    {label: 'Study', text: 'Hochschule Mittweida', Icon: AcademicCapIcon},
   ],
 };
 
