@@ -1,5 +1,4 @@
 import {
-  AcademicCapIcon,
   CalendarIcon,
   MapIcon,
 } from '@heroicons/react/24/outline';
