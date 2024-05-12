@@ -125,6 +125,89 @@ export const experience: TimelineItem[] = [
  */
 export const skills: SkillGroup[] = [
   {
+    name: 'Frontend development',
+    skills: [
+      {
+        name: 'JavaScript',
+        level: 8.25,
+      },
+      {
+        name: 'DevExpress / DevExtreme',
+        level: 7,
+      },
+      {
+        name: 'DHTMLX',
+        level: 7,
+      },
+      {
+        name: 'Vue.js',
+        level: 7,
+      },
+      {
+        name: 'Delphi',
+        level: 6,
+      },
+      {
+        name: 'React',
+        level: 3.5,
+      },
+      {
+        name: 'Typescript',
+        level: 3.5,
+      },
+    ],
+  },
+  {
+    name: 'Backend development',
+    skills: [
+      {
+        name: 'C#',
+        level: 8,
+      },
+      {
+        name: 'PHP',
+        level: 6.75,
+      },
+      {
+        name: 'Python',
+        level: 4.75,
+      },
+      {
+        name: 'Node.js',
+        level: 3.5,
+      },
+    ],
+  },
+  {
+    name: 'Others',
+    skills: [
+      {
+        name: 'Linux',
+        level: 8,
+      },
+      {
+        name: 'Windows',
+        level: 8,
+      },
+      {
+        name: 'Git',
+        level: 7,
+      },
+      {
+        name: 'SQL / Databases',
+        level: 7,
+      },
+      {
+        name: 'AI usage (Stable Diffusion / LLMs)',
+        level: 6.5,
+      },
+      {
+        name: 'Jira',
+        level: 6,
+      },
+    ],
+  },
+  {
     name: 'Spoken languages',
     skills: [
       {
@@ -135,57 +218,6 @@ export const skills: SkillGroup[] = [
         name: 'English',
         level: 10,
       }
-    ],
-  },
-  {
-    name: 'Frontend development',
-    skills: [
-      {
-        name: 'React',
-        level: 9,
-      },
-      {
-        name: 'Typescript',
-        level: 7,
-      },
-      {
-        name: 'GraphQL',
-        level: 6,
-      },
-    ],
-  },
-  {
-    name: 'Backend development',
-    skills: [
-      {
-        name: 'Node.js',
-        level: 8,
-      },
-      {
-        name: 'Rust',
-        level: 5,
-      },
-      {
-        name: 'Golang',
-        level: 4,
-      },
-    ],
-  },
-  {
-    name: 'Mobile development',
-    skills: [
-      {
-        name: 'React Native',
-        level: 9,
-      },
-      {
-        name: 'Flutter',
-        level: 4,
-      },
-      {
-        name: 'Swift',
-        level: 3,
-      },
     ],
   },
 ];
