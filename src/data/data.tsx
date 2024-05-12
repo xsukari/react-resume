@@ -68,7 +68,7 @@ export const heroData: Hero = {
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         I'm a <strong className="text-stone-100">Software Developer</strong> from, and also currently living in, Leipzig.
-        At the moment I'm expanding my knowledge by diving into the world of React, Next.js, and Typescript; coming from Vue.js and pure JS.
+        At the moment I'm expanding my knowledge by diving into the world of React, Next.js, and Typescript; coming from Vue.js and plain old JS.
       </p>
     </>
   ),
