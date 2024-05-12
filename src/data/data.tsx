@@ -1,6 +1,5 @@
 import {
   AcademicCapIcon,
-  ArrowDownTrayIcon,
   CalendarIcon,
   MapIcon,
 } from '@heroicons/react/24/outline';
@@ -80,9 +79,9 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: `I'm always strifing to be the best possible version of myself.
-  Learning from one's mistakes is essential, not only will an unpleasant situation hopefully not happen again,
-  but it might even be converted into something advantageous for oneself.`,
+  description: `I'm always striving to be the best possible version of myself; to achieve this, 
+  it is important to always keep an open mind and be willing to learn new things, especially from other people directly, 
+  which can require more openness than learning from their written knowledge.`,
   aboutItems: [
     {label: 'Location', text: 'Leipzig, Germany', Icon: MapIcon},
     {label: 'Age', text: (new Date(Math.abs(new Date().getTime() - new Date('1996-05-11').getTime())).getUTCFullYear() - 1970).toString(), Icon: CalendarIcon},
