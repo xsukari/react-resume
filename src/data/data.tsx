@@ -291,14 +291,9 @@ export const testimonial: TestimonialSection = {
  */
 
 export const contact: ContactSection = {
-  headerText: 'Get in touch.',
-  description: 'Check out these ways to contact me below.',
+  headerText: 'Get in touch',
+  description: '',
   items: [
-    {
-      type: ContactType.Email,
-      text: 'mail@benjamin-hempel.com',
-      href: 'mailto:benjamin-hempel.com',
-    },
     {
       type: ContactType.Location,
       text: 'Leipzig, Germany',
