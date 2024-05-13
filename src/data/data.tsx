@@ -170,7 +170,7 @@ export const skills: SkillGroup[] = [
       },
       {
         name: 'Python',
-        level: 4.75,
+        level: 3.5,
       },
       {
         name: 'Node.js',
