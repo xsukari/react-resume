@@ -215,7 +215,7 @@ export const skills: SkillGroup[] = [
       },
       {
         name: 'Video editing',
-        level: 4.5,
+        level: 2.5,
       },
       {
         name: 'Blender',
